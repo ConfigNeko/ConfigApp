@@ -1,0 +1,2 @@
+# ConfigApp
+config app nekosoft
