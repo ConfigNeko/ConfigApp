@@ -1,6 +1,6 @@
 {
   "youtube_type": 3,
   "direct_link":"com.boost.battery.supercleaner",
-  "require_update": true,
+  "require_update": false,
   "version_code_release": 2
 }
